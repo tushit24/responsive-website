@@ -25,4 +25,4 @@ React.js – Declarative UI components
 
 Tailwind CSS – Utility-first styling framework
 
-Vite / Next.js (optional) – Fast development environment
+ Next.js
