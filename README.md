@@ -16,7 +16,7 @@ Clone the repository and install the dependencies to start exploring:
 
 ```bash
 git clone https://github.com/tushit24/PRODIGY_WD_01.git
-cd interactive-nav
+cd PRODIGY_WD_01
 npm install
 npm run dev
 
