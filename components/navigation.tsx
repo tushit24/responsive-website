@@ -82,7 +82,7 @@ export default function Navigation() {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
           <Link href="/" className="text-xl font-bold">
-            LOGO
+            PRODIGY INFOTECH
           </Link>
 
           {/* Desktop Navigation */}
